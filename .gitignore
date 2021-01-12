@@ -1,6 +1,7 @@
 # Auth Stuff
 credentials.json
 token.pickle
+writing-tools-api-key.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
